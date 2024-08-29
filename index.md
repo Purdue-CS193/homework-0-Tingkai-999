@@ -42,4 +42,3 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - I am thrilled to learn coding in terminal, it is just so cool as if I am a hacker.
 - I love the activities at the beginning of the class, it is interesting.
 - I love all CS courses.
-- 
