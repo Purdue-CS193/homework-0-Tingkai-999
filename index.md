@@ -38,9 +38,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-### Markdown syntax
-
-# Header 1
-## Header 2
-### Header 3
-
+### List of favorite things
+- I am thrilled to learn coding in terminal, it is just so cool as if I am a hacker.
+- I love the activities at the beginning of the class, it is interesting.
+- I love all CS courses.
+- 
